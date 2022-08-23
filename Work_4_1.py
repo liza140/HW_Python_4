@@ -2,7 +2,6 @@
 # 60 -> 2, 2, 3, 5
 
 from cgi import print_arguments
-import math
 
 N = int(input("Введите натуральное число: "))
 half = round(N/2)+1
